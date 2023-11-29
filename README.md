@@ -6,7 +6,6 @@
 
 
 - 🌱 배우는 중이에요 : Python, Data science, SQL
-- about me : <a href="https://www.instagram.com/letmego__home/" target="_blank"><img src=https://www.img.shields.io/badge/instagram-000000?style=flat&logo=dd&logoColor=000000"/></a>
-
+- about me : ![Instagram_icon](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1200px-Instagram_icon.png?20200512141346)
 
 
