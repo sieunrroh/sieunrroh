@@ -6,5 +6,10 @@
 
 
 - 🌱 배우는 중이에요 : Python, Data science, SQL
-- about me : [![Instagram_icon](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/256px-Instagram_icon.png)](https://www.instagram.com/letmego__home/)
+- about me : [시은 인스타그램](https://www.instagram.com/letmego__home/)
+              EMAIL : candy980617@gmail.com
+
+- 취미 : 운동
+
+![sieun's GitHub stats](https://github-readme-stats.vercel.app/api?username=sieunrroh&show_icons=true&theme=radical)
 
