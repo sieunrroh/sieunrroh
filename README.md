@@ -1,10 +1,11 @@
-### Hi there 👋
+
+
+<h2 align="center"> Hi I'm SiEun👋 </h3>
+
+기획자에서 데이터 분석가로 나아갈 준비를 하는 노시은이라고 합니다!!
+
 
 - 🌱 I’m currently learning: Python, Data science
-- 👯 I’m looking to collaborate on 프로젝트
-- 🤔 I’m looking for help with 
-- 💬 Ask me about 
-- 📫 How to reach me: 이메일
-- 😄 Pronouns: 
-- ⚡ Fun fact: 특장점
+
+
 
