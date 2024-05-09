@@ -4,6 +4,8 @@
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 안녕하세요! 기획자에서 데이터 사이언스 분야로 나아가고 있는 노시은이라고 합니다 🌱 </li></li><br>데이터의 힘과 가치를 믿습니다.  </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 노션에서 자세한 경력&프로젝트를 확인하실 수 있습니다.</div>
+    <a href = "https://www.notion.so/Data-7f5b29edd37e4aaeaf4a6393559ddee1?pvs=4"> 노션 방문하기  </a>a>
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
